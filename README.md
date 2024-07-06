@@ -1,4 +1,4 @@
-Reading the Grain on a Golf Course Green:  A Machine-Learning Challenge
+<center>Reading the Grain on a Golf Course Green:  A Machine-Learning Challenge</center>
 
 I have spent more than twenty years cutting cups on golf course greens.  Like a lot of other people, I have observed that one side of a golf cup is usually more ‘distressed’ than the other.  An example is shown here.
 
