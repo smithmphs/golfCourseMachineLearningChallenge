@@ -1,1 +1,1 @@
-Contains training data from images where the hold is stressed at the top.
+Contains training data from images where the hole is stressed at the top.
