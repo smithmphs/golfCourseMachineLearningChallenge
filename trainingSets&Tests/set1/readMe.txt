@@ -1,0 +1,2 @@
+This directory contains data processed from ../dataSet1 .
+This directory contains 3 subdirections.  'top' contains vertical shards of images of turf from pictures where the hole is distressed at the top of the picture.  'bottom' contains vertical slices of images of turf from pictures where the hole is distressed at the bottom.  'test' contains vertical slices of images of turf from pictures where the hole is on top.
