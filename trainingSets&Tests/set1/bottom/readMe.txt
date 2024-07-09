@@ -1,1 +1,1 @@
-Contains training data where the hole is distressed atthe bottom.
+Contains training data where the hole is distressed at the bottom.
