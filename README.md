@@ -22,7 +22,7 @@ Here, I draw the stolons with arrow-heads to reflect the fact they have a polari
     <img src='holeInDistress.png'>
 </p>
 
-The area in red outlines where the cut intersects with stolons emanating into the green.  It is here where the relatively rootless stolons are torn out of the thatch, leaving behind an arc of bare ground.  On the opposite side of the cup, the same thing is happening, but the damage is being done to the young shoots emanating into the plug.  When the plug is transplanted into the old hole, what remains is the deeply rooted portion of the severed stolons.
+The area in red outlines where the cut intersects with stolons emanating into the green.  It is here where the relatively rootless stolons are torn out of the thatch, leaving behind an arc of bare ground.  On the opposite side of the cup, the same thing is happening, but the damage is being done to the young shoots emanating into the plug.  When the plug is transplanted into the old hole, what remains is the deeply rooted portion of the severed stolons and a nice crisp edge.
 
 Theory is nice, but does it correspond to what we see in reality?  Below is an example hole from the data set.
 
@@ -30,4 +30,4 @@ Theory is nice, but does it correspond to what we see in reality?  Below is an e
   <img src='diagram.jpg'>
 </p>
 
-As stated earlier, if you accept the premise that distress is a surrogate for grain, then this affords an opportunity to classify pictures of turf around golf course holes as to their grain.  Utilizing such a set of classified pictures, somebody with AI skills could train a neural network to call grain on an ad hoc basis.  Generating such a set is the goal of this project.  So, the next time you play golf, take some pictures and send them our way.  Thanks.
+As stated earlier, if you accept the premise that distress is a surrogate for grain, then this affords an easy way to classify pictures of turf around golf course holes as to their grain.  Utilizing such a set of classified pictures, somebody with AI skills could train a neural network to call grain on an ad hoc basis.  Generating such a set is the goal of this project.  So, the next time you play golf, take some pictures and send them our way.  Thanks.
