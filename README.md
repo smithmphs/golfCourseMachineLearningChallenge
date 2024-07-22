@@ -22,7 +22,7 @@ Here, I draw the stolons with arrow-heads to reflect the fact they have a polari
     <img src='holeInDistress.png'>
 </p>
 
-The black circle is the hole. The area in red outlines where the cut intersects with stolons emanating into the green.  It is here where the relatively rootless stolons are torn out of the thatch, leaving behind an arc of bare ground.  On the opposite side of the cup, the same thing is happening, but the damage is being done to the young shoots emanating into the plug.  When the plug is transplanted into the old hole, what remains is the deeply rooted portion of the severed stolons and a nice crisp edge.
+The black circle is the hole. The area in red outlines where the cut intersects with stolons emanating into the green.  It is here where the relatively rootless stolons are torn out of the thatch, leaving behind an arc of bare ground.  On the opposite side of the cup, the same thing is happening, but the damage is being done to the young shoots emanating into the plug.  When the plug is taken away and transplanted into the old hole, what remains is the deeply rooted portion of the severed stolons and a nice crisp edge.
 
 Theory is nice, but does it correspond to what we see in reality?  Below is an example hole from the data set.
 
