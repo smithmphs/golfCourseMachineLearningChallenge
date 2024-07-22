@@ -15,12 +15,16 @@ Why do the edges of the cup reveal grain?  Nobody knows for sure.  But here's a 
 <p align='center'>
   <img src='vectorField.png'>
 </p>
+
 Here, I draw the stolons with arrow-heads to reflect the fact they have a polarity. The mother tuft is the oldest and has the longest roots.  The daughter ramets are progressively younger and correspondingly less strongly rooted.  In fact, the terminal tuft is rootless and freely suspended in the thatch trying to decide where to touch down next.  In the diagram, suppose the terminal tufts are the arrow-heads.  So, when a cup cutter cuts a hole, he does something like so:
 
 <p align='center'>
     <img src='holeInDistress.png'>
 </p>
 
+The area in red outlines where the cut intersects with stolons emanating into the green.  It is here where the relatively rootless stolons are torn out of the thatch, leaving behind an arc of bare ground.  On the opposite side of the cup, the same thing is happening, but the damage is being done to the young shoots emanating into the plug.  When the plug is transplanted into the old hole, what remains is the deeply rooted portion of the severed stolons.
+
+Theory is nice, but does it correspond to what we see in reality?  Below is an example hole from the data set.
 
 <p align='center'>
   <img src='diagram.jpg'>
