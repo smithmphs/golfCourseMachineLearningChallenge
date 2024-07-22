@@ -18,7 +18,7 @@ Why do the edges of the cup reveal grain?  Nobody knows for sure.  But here's a 
 Here, I draw the stolons with arrow-heads to reflect the fact they have a polarity. The mother tuft is the oldest and has the longest roots.  The daughter ramets are progressively younger and correspondingly less strongly rooted.  In fact, the terminal tuft is rootless and freely suspended in the thatch trying to decide where to touch down next.  In the diagram, suppose the terminal tufts are the arrow-heads.  So, when a cup cutter cuts a hole, he does something like so:
 
 <p align='center'>
-    <img src='distressedHole.png'>
+    <img src='holeWithDistressedBorder.png'>
 </p>
 
 
