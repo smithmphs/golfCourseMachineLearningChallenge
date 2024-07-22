@@ -30,4 +30,4 @@ Theory is nice, but does it correspond to what we see in reality?  Below is an e
   <img src='diagram.jpg'>
 </p>
 
-As stated earlier, if you accept the premise that distress is a surrogate for grain, then this affords an easy way to classify pictures of turf around golf course holes as to their grain.  Utilizing such a set of classified pictures (excluding the holes, of course), somebody with AI skills could train a neural network to call grain on an ad hoc basis.  Generating such a set is the goal of this project.  So, the next time you play golf, take some pictures and send them our way.  Thanks.
+As stated earlier, if you accept the premise that distress is a surrogate for grain, then this affords an easy way to classify pictures of turf around golf course holes as to their grain.  Utilizing such a set of classified pictures (excluding the holes, of course), somebody with AI skills could train a neural network to call grain on an ad hoc basis.  That's the hope, at least.  Generating such a set is the goal of this project.  So, the next time you play golf, take some pictures and send them our way.  Thanks.
